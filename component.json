@@ -1,0 +1,16 @@
+{
+  "name": "angular",
+  "repo": "buritica/angular",
+  "description": "ComponentJS version of angular.js, this version DEPENDS of jQuery. Do not use if you want to use Angulars version of jQlite.",
+  "version": "1.0.7",
+  "keywords": [],
+  "dependencies": {
+    "component/jquery": "1.9.1"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
